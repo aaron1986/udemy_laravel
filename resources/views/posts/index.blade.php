@@ -13,6 +13,7 @@
                 <li><a href="/posts/{{ $post->slug }}">{{ $post->slug }}</a></li>
             @endforeach
         </ul>
+
     @endif
 </body>
 </html>
